@@ -1,0 +1,5 @@
+recursive-include flask_easymde *
+recursive-include flask_easymde/static *
+include LICENSE.txt
+include README.rst
+ 
