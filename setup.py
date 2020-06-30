@@ -8,8 +8,8 @@ from setuptools import setup
 
 
 setup(
-    name='Flask-EasyMDE-dnymxm',
-    version='1.5',
+    name='Flask-EasyMDE',
+    version='1.0',
     url='https://github.com/dnymxm/flask-easymde/',
     license='BSD',
     author='Maxime Diony',
