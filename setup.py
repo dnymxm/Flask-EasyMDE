@@ -9,7 +9,7 @@ from setuptools import setup
 
 setup(
     name='Flask-EasyMDE-dnymxm',
-    version='1.4',
+    version='1.5',
     url='https://github.com/dnymxm/flask-easymde/',
     license='BSD',
     author='Maxime Diony',
