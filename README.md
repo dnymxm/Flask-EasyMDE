@@ -3,6 +3,10 @@ Flask-EasyMDE is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) implemen
 
 EasyMDE is itself a fork of abandoned SimpleMDE project which brings some changes and fix compatibility bugs.
 
+Thank's to @Ionaru for his work on EasyMDE 🙏
+
+This extension is based on [Flask-SimpleMDE](https://github.com/pyx/flask-simplemde) code which was the Flask implementation for SimpleMDE.
+
 ### How To Use? 
 1. **Installation**
 
@@ -75,4 +79,4 @@ Once registered, this extension provides a template variable called `easymde`, i
 {{ easymde.load_id("editor") }}
 ```
 ### License
-MIT
+BSD 2-Clause "Simplified" License

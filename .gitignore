@@ -2,5 +2,7 @@
 build/
 dist/
 env/
+.tox/
 Flask_EasyMDE.egg-info/
 Flask_EasyMDE_dnymxm.egg-info/
+tests/__pycache__/
